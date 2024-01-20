@@ -1,4 +1,4 @@
-Modelo de clasificacion de Machine Learning
+#Modelo de clasificacion de Machine Learning
 
 
 En el siguiente proyecto estaré desarrollando un modelo de aprendizaje para un banco que está experimentando una creciente tasa de abandono por parte de sus clientes cada mes. Para el banco es más económico salvar a los clientes que permanecen, que atrer a nuevos.
