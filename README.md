@@ -8,4 +8,4 @@ Mi objetivo es crear un modelo de clasificación que me permita predecir exitosa
 Mi enfoque en cuanto a las predicciones de si un cliente abandonará o no, será disminuir el máximo posible de falsos negativos y falsos positivos; para lo cual me concentraré en la media armónica de las métricas de precisión y sensibilidad.
 
 
-Esta tarea de clasificación está realizada mediante un archivo de Jupyter Notebook.
+Esta tarea de clasificación está realizada mediante un archivo de Jupyter Notebook, desde Visual Studio Code, utilizando Python como lenguaje de programación.
